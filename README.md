@@ -1,5 +1,5 @@
-                                                           
-## Introduction
+## Game of Chess                                                        
+### Introduction
 
 Using the lichess dataset we plan to create a dropdown function to sort by different aspects of data. Some aspects that we plan to use are the player rating(how good a player is), opening moves(what standard chess openings were played), win type(checkmate, resign, timeout), and game result(white win, black win, draw). 
 
