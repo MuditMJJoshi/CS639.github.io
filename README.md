@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CS639 Final Project
 
 You can use the [editor on GitHub](https://github.com/MuditMJJoshi/CS639.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
