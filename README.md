@@ -29,8 +29,20 @@ Minimum Average Rating:
 Maximum Average Rating:
 (Text box)
 
-Graph popup tab
 
+**SECOND IMAGE HERE**
+
+Minimum Average Rating:
+(Text box)
+
+Maximum Average Rating:
+(Text box)
+
+Minimum Turns:
+(Text box)
+
+Maximum Turns:
+(Text box)
 
 
 
