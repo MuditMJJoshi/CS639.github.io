@@ -23,7 +23,7 @@ The motivation for our project was our interest in chess, and how different fact
                                              
 **FIRST IMAGE HERE**
 
-![Graph 1](https://github.com/MuditMJJoshi/CS639.github.io/blob/main/2.png "Logo Title Text 1")
+![Graph 1](https://github.com/MuditMJJoshi/CS639.github.io/blob/94411485a61668ad66a52754e8dd16ed2f93c76d/2.png)
 
 Minimum Average Rating:
 
@@ -36,7 +36,7 @@ Maximum Average Rating:
 
 **SECOND IMAGE HERE**
 
-![Graph 2](https://github.com/MuditMJJoshi/CS639.github.io/blob/main/1.png "Logo Title Text 1")
+![Graph 2](https://github.com/MuditMJJoshi/CS639.github.io/blob/94411485a61668ad66a52754e8dd16ed2f93c76d/1.png)
 
 Minimum Average Rating:
 
