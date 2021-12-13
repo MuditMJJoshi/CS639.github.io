@@ -22,6 +22,8 @@ The motivation for our project was our interest in chess, and how different fact
                                              Visualizations
               
               
+**Game Outcomes**
+
 ![Graph 1](./assets/1.png)
 
 Minimum Average Rating:
@@ -40,6 +42,8 @@ Maximum Turns:
 
 <input type="text" id="maxTurns1" name="maxTurns1"/>
 
+
+**Winning Side**
 
 ![Graph 2](./assets/2.png)
 
