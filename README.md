@@ -47,6 +47,7 @@ Minimum Turns:
 
 Maximum Turns:
 (Text box)
+<input type="text" id="name" name="name"/>
 
 
 
