@@ -34,7 +34,7 @@ Maximum Average Rating:
 
 **SECOND IMAGE HERE**
 
-![Graph 2](https://github.com/MuditMJJoshi/CS639.github.io/blob/main/1.png "Logo Title Text 1")
+![Graph 2](https://github.com/MuditMJJoshi/CS639.github.io/blob/ad6b8ae63b14a8cafff7068411b274cc99004253/1.png "Logo Title Text 1")
 
 Minimum Average Rating:
 (Text box)
