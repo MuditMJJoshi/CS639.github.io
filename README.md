@@ -21,7 +21,13 @@ The motivation for our project was our interest in chess, and how different fact
 
                                              Visualizations
 
-Filter By:
+**FIRST IMAGE HERE**
+
+Minimum Average Rating:
+(Text box)
+
+Maximum Average Rating:
+(Text box)
 
 Graph popup tab
 
