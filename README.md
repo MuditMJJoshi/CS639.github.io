@@ -32,6 +32,14 @@ Maximum Average Rating:
 
 <input type="text" id="maxRating1" name="maxRating1"/>
 
+Minimum Turns:
+
+<input type="text" id="minTurns1" name="minTurns1"/>
+
+Maximum Turns:
+
+<input type="text" id="maxTurns1" name="maxTurns1"/>
+
 
 ![Graph 2](./assets/2.png)
 
@@ -45,11 +53,11 @@ Maximum Average Rating:
 
 Minimum Turns:
 
-<input type="text" id="minTurns" name="minTurns"/>
+<input type="text" id="minTurns2" name="minTurns2"/>
 
 Maximum Turns:
 
-<input type="text" id="maxTurns" name="maxTurns"/>
+<input type="text" id="maxTurns2" name="maxTurns2"/>
 
 
 
