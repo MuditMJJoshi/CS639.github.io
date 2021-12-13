@@ -20,6 +20,14 @@ The motivation for our project was our interest in chess, and how different fact
 
 
                                              Visualizations
+                                             
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/MuditMJJoshi/CS639.github.io/blob/main/1.png "Logo Title Text 1")
+
+Inline-style: 
+![alt text](https://github.com/MuditMJJoshi/CS639.github.io/blob/main/2.png "Logo Title Text 1")
 
 **FIRST IMAGE HERE**
 
