@@ -35,7 +35,7 @@ Graph popup tab
                                                                   
 During our project the work has been split up this way so far:
 John - Creating the filtering system
-Peter - Working on the bar charts
+Peter - Working on the charts
 Mudit - Creating the website
 Isaac - Interpreting data and creating writeups
 
