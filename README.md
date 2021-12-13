@@ -20,9 +20,8 @@ The motivation for our project was our interest in chess, and how different fact
 
 
                                              Visualizations
-                                             
-**FIRST IMAGE HERE**
-
+              
+              
 ![Graph 1](./assets/1.png)
 
 Minimum Average Rating:
@@ -33,8 +32,6 @@ Maximum Average Rating:
 
 <input type="text" id="maxRating1" name="maxRating1"/>
 
-
-**SECOND IMAGE HERE**
 
 ![Graph 2](./assets/2.png)
 
