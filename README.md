@@ -41,6 +41,11 @@ Isaac - Interpreting data and creating writeups
 
                                                                   
                                                Challenges
+                                               
+Some of the challenges that we had to overcome during the process of creating our project were:
+Interpreting vague or obscure data from the csv file.
+Solving bugs in our interface
+Working through scheduling differences during finals time.
                                                                   
                                                                   
                                                                   
