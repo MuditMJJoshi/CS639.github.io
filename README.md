@@ -26,28 +26,33 @@ The motivation for our project was our interest in chess, and how different fact
 ![Graph 1](https://github.com/MuditMJJoshi/CS639.github.io/blob/main/2.png "Logo Title Text 1")
 
 Minimum Average Rating:
-(Text box)
+
+<input type="text" id="minRating1" name="minRating1"/>
 
 Maximum Average Rating:
-(Text box)
+
+<input type="text" id="maxRating1" name="maxRating1"/>
 
 
 **SECOND IMAGE HERE**
 
-![Graph 2](https://github.com/MuditMJJoshi/CS639.github.io/blob/ad6b8ae63b14a8cafff7068411b274cc99004253/1.png "Logo Title Text 1")
+![Graph 2](https://github.com/MuditMJJoshi/CS639.github.io/blob/main/1.png "Logo Title Text 1")
 
 Minimum Average Rating:
-(Text box)
+
+<input type="text" id="minRating2" name="minRating2"/>
 
 Maximum Average Rating:
-(Text box)
+
+<input type="text" id="maxRating2" name="maxRating2"/>
 
 Minimum Turns:
-(Text box)
+
+<input type="text" id="minTurns" name="minTurns"/>
 
 Maximum Turns:
-(Text box)
-<input type="text" id="name" name="name"/>
+
+<input type="text" id="maxTurns" name="maxTurns"/>
 
 
 
