@@ -20,9 +20,9 @@ The motivation for our project was our interest in chess, and how different fact
                                            
 Turns: How many turns the game took to resolve
 
-Victory_status: What caused the game to end (out of time, resign, checkmate, draw)
+Victory Status: What caused the game to end (out of time, resign, checkmate, draw)
 
-Rating: A player's matchmaking rank for online chess. Higher rating typically means the player's skill is higher.
+Rating: A player's matchmaking rank for online chess. Higher rating typically means the player's skill is higher. For Lichess, the average player is at around 1500 rating.
 
 Average Rating: The average rating of the 2 players on white and black
 
