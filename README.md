@@ -16,6 +16,16 @@ We will be using dynamic query for our project. The reason for our choice of dyn
 The motivation for our project was our interest in chess, and how different factors would impact the outcome of online chess matches. We wanted to take into consideration things like rating, white vs. black, number of moves, game time, and how it relates to the outcome of the game. This is worth addressing because it can give some insight into one of the most popular strategy games of all time.
 
 
+                                           Definitions
+                                           
+Turns: How many turns the game took to resolve
+Victory_status: What caused the game to end (out of time, resign, checkmate, draw)
+Rating: A player's matchmaking rank for online chess. Higher rating typically means the player's skill is higher.
+Average Rating: The average rating of the 2 players on white and black
+Moves: The moves that occurred during the entire game’s playtime
+
+
+
 
 
 
