@@ -35,8 +35,7 @@ Moves: The moves that occurred during the entire game’s playtime
 
                                              Visualizations
                                              
-              
-              
+https://prod-useast-b.online.tableau.com/t/hahah/views/1/4?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link              
 **Game Outcomes**
 
 ![Graph 1](./assets/1.png)
