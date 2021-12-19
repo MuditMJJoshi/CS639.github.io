@@ -3,12 +3,21 @@
 
                                              Introduction
 
+A brief description of your final interactive visualization application.
+
+Our final interactive visualization was the website that we created that contains all of our work thus far. It contains an introduction, problems and motivations, and definitions parts at the beginning to introduce a reader to our project and the reasoning behind it. It also helps a user become familiar with chess information that we will be working with. It then contains our visualizations, some static and some interactive, that present some important information and findings from the work that we did. 
+
+
 Using the lichess dataset we plan to create a dropdown function to sort by different aspects of data. Some aspects that we plan to use are the player rating(how good a player is), opening moves(what standard chess openings were played), win type(checkmate, resign, timeout), and game result(white win, black win, draw). 
 
 The user will be able to interact with these different identifiers to find out more about how the games are influenced by these factors. For example: the user could use our tool to figure out how player rating impacts the win type or frequency of different openings. Most of our data will be visualized in bar charts or pie charts that are able to demonstrate differences in the data. 
 
 We will be using dynamic query for our project. The reason for our choice of dynamic query is that we believe it will facilitate the user in searching for their topics of interest. We also plan to use bar charts and pie charts interchangeably to fit the data that is being shown. For some, for example player rating, bar charts would be easier to interpret data like the average rating of all players. For others, like player vs player win data, it would be easier to see a pie chart for a ratio between two players.
 
+
+    An explanation of changes between the storyboard and the final implementation
+
+	At the beginning of the project, our idea was to use dynamic query and the lichess dataset in order to allow our users to sort by different factors. These factors would then influence the graphs that were presented to them. This would allow for many interesting insights about the game of online chess. As we neared the deadline, it became clear that this goal was unobtainable, and we decided to switch directions. The changes that we decided to make were to use some static visualizations instead of all interactive ones, so that we could showcase some of the important findings that we had. We also decided to implement some interactive visualizations on tableau, and find a way to integrate that with our website.
 
 
                                            Problem and Motivations
@@ -34,45 +43,59 @@ Moves: The moves that occurred during the entire game’s playtime
 
 
                                              Visualizations
- 1. Average Game Length - This graph shows the average number of moves for a game at 4 different skill levels. As we can see, there is a positive correlation between skill and longer game length. 
+ 
+Average Game Length - This graph shows the average number of moves for a game at 4 different skill levels. As we can see, there is a positive correlation between skill and longer game length. 
+ 
+Game length by the opening with variation - This graph shows some different openings and how the many moves the resulting games take on average. It shows that opening can impact game length quite heavily.
+ 
+Missing Title - This graph shows how often a game ends a certain way. It shows that most games end by resignation of one player, and very few games end in a draw. 
+ 
+Victorious Color - This graph shows the outcome of games at different skill levels. An interesting takeaway is that white has a distinct advantage at all levels, and that draws are much more likely at the pro level.
+ 
+Victory Status by the Game Rating - This graph shows how likely a certain a game ending is a different skill levels. It shows that checkmate is relatively unlikely at pro level relative to other levels of play.
+
+Win by Opening and Level - These two graphs show how likely a win is in a certain openings, filtered by skill levels. It shows that some opening are better at different skill levels. 
+
+Winner by the Opening with Variation in % - This graph shows the likelihood of an outcome for different openings. With this graph you can see which openings are better for which color, and which result in more draws. 
+
+Winner by Opening and Level - These two graphs show the likelihood of an outcome for different openings. With these graphs you can see which openings are better for which color, and which result in more draws.
+
                         
 ![Graph 1](docs/assets/1.jpg)
 
 
-2. Game length by the opening with variation - This graph shows some different openings and how the many moves the resulting games take on average. It shows that opening can impact game length quite heavily.
 
 ![Graph 2](docs/assets/2.jpg)
 
 
-3. Missing Title - This graph shows how often a game ends a certain way. It shows that most games end by resignation of one player, and very few games end in a draw. 
 
 ![Graph 3](docs/assets/3.jpg)
 
 
-4. Victorious Color - This graph shows the outcome of games at different skill levels. An interesting takeaway is that white has a distinct advantage at all levels, and that draws are much more likely at the pro level.
 
 ![Graph 4](docs/assets/4.jpg)
 
-
-5. Victory Status by the Game Rating - This graph shows how likely a certain a game ending is a different skill levels. It shows that checkmate is relatively unlikely at pro level relative to other levels of play. 
+ 
 
 ![Graph 5](docs/assets/5.jpg)
 
 
-6,7. Win by Opening and Level - These two graphs show how likely a win is in a certain openings, filtered by skill levels. It shows that some opening are better at different skill levels. 
 
 ![Graph 6](docs/assets/6.jpg)
+
+
 
 ![Graph 7](docs/assets/7.jpg)
 
 
-8. Winner by the Opening with Variation in % - This graph shows the likelihood of an outcome for different openings. With this graph you can see which openings are better for which color, and which result in more draws. 
 
 ![Graph 8](docs/assets/8.jpg)
 
-9,10. Winner by Opening and Level - These two graphs show the likelihood of an outcome for different openings. With these graphs you can see which openings are better for which color, and which result in more draws.
+
 
 ![Graph 9](docs/assets/9.jpg)
+
+
 
 ![Graph 10](docs/assets/10.jpg)
 
