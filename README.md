@@ -162,7 +162,7 @@ During our project the work has been split up this way so far:
 
 * John - Creating the filtering system: John worked on the coding in D3 to take what Peter created and make it function the way that we wanted for the website.
 * Peter - Working on the bar charts: Peter worked with the data provided in the csv file in order to create many different charts that we could use for our final product.
-* Mudit - Creating the website: Mudit took those two pieces and used them to create the user end website that people can interact with.
+* Mudit - Creating the website and helped creating graphs: Mudit took those two pieces and used them to create the user end website that people can interact with.
 * Isaac - Interpreting data and creating writeups: Isaac helped with interpreting and researching aspects of the data, and creating the writeups and scripts. 
 
                                                                                                                                  
