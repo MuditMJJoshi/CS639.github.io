@@ -34,30 +34,57 @@ Moves: The moves that occurred during the entire game’s playtime
 
 
                                              Visualizations
-                          
+ 1. Average Game Length - This graph shows the average number of moves for a game at 4 different skill levels. As we can see, there is a positive correlation between skill and longer game length. 
+                        
 ![Graph 1](docs/assets/1.jpg)
+
+
+2. Game length by the opening with variation - This graph shows some different openings and how the many moves the resulting games take on average. It shows that opening can impact game length quite heavily.
 
 ![Graph 2](docs/assets/2.jpg)
 
+
+3. Missing Title - This graph shows how often a game ends a certain way. It shows that most games end by resignation of one player, and very few games end in a draw. 
+
 ![Graph 3](docs/assets/3.jpg)
+
+
+4. Victorious Color - This graph shows the outcome of games at different skill levels. An interesting takeaway is that white has a distinct advantage at all levels, and that draws are much more likely at the pro level.
 
 ![Graph 4](docs/assets/4.jpg)
 
+
+5. Victory Status by the Game Rating - This graph shows how likely a certain a game ending is a different skill levels. It shows that checkmate is relatively unlikely at pro level relative to other levels of play. 
+
 ![Graph 5](docs/assets/5.jpg)
+
+
+6,7. Win by Opening and Level - These two graphs show how likely a win is in a certain openings, filtered by skill levels. It shows that some opening are better at different skill levels. 
 
 ![Graph 6](docs/assets/6.jpg)
 
 ![Graph 7](docs/assets/7.jpg)
 
+
+8. Winner by the Opening with Variation in % - This graph shows the likelihood of an outcome for different openings. With this graph you can see which openings are better for which color, and which result in more draws. 
+
 ![Graph 8](docs/assets/8.jpg)
+
+9,10. Winner by Opening and Level - These two graphs show the likelihood of an outcome for different openings. With these graphs you can see which openings are better for which color, and which result in more draws.
 
 ![Graph 9](docs/assets/9.jpg)
 
 ![Graph 10](docs/assets/10.jpg)
 
+
+
 ![Graph 11](docs/assets/11.jpg)
 
+
+
 ![Graph 12](docs/assets/12.jpg)
+
+
 
 ![Graph 13](docs/assets/13.jpg)
 
