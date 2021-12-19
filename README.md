@@ -51,11 +51,13 @@ Moves: The moves that occurred during the entire game’s playtime
 				   
 <iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/peter8439/viz/a_16398946906600/Sheet1" width = '650' height = '450' scrolling='yes' ></iframe>
 
+(PLease click here if above visualization doesn't load)
 [Viz 1](https://public.tableau.com/app/profile/peter8439/viz/a_16398946906600/Sheet1 "Visualization 1")
 
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/peter8439/viz/bbb_16398978604680/Sheet1" width = '650' height = '450' scrolling='yes' ></iframe>
 
+(PLease click here if above visualization doesn't load)
 [Viz 2](https://public.tableau.com/app/profile/peter8439/viz/bbb_16398978604680/Sheet1 "Visualization 1")
 
 
