@@ -114,7 +114,25 @@ Winner by Opening and Level - These two graphs show the likelihood of an outcome
 ![Graph 13](docs/assets/13.jpg)
 
 
+                    Some Interesting Facts learned through these Visualizations
+		    
+*The average game lenght is 60 turns
+*The higher the rating of the players the game last longer ( linear dependence )
+*The game lasts the longest with Robatsh (modern) Defense and English Defense
+*The game lasts the shortest with Semi-Slav Defense and Danish Gambit
+*The game of chess doesn't usually last more than 100 moves
 
+*White color is slightly more likely to win, but when the rating is high draws occurs more often
+*Best win rate for white has Nimzowitsh Defense, Rat Defense and Elephant Gambit
+*Best win rate for black has Grob Opening and Van't Krujis Opening
+*For the mid ranked players best win rate for white has Philidor Defense, although for black Van't Krujis Opening
+*For the high ranked players best win rate for white has English Opening and Indian Game for black
+*For the pro players white has best win rate with English Opening, black although with Modern Defense
+
+*The most popular opening is Opening and Sicilian Defense and Van't Kruijs Opening
+
+*Higher rated players usually resign more often
+*The average amount of book moves in opening plays is : 5
 
 
 
@@ -122,13 +140,10 @@ Winner by Opening and Level - These two graphs show the likelihood of an outcome
                                                                   
 During our project the work has been split up this way so far:
 
-John - Creating the filtering system
-
-Peter - Working on the charts
-
-Mudit - Creating the website
-
-Isaac - Interpreting data and creating writeups
+*John - Creating the filtering system: John worked on the coding in D3 to take what Peter created and make it function the way that we wanted for the website.
+*Peter - Working on the bar charts: Peter worked with the data provided in the csv file in order to create many different charts that we could use for our final product.
+*Mudit - Creating the website: Mudit took those two pieces and used them to create the user end website that people can interact with.
+*Isaac - Interpreting data and creating writeups: Isaac helped with interpreting and researching aspects of the data, and creating the writeups and scripts. 
 
                                                                   
                                                Challenges
