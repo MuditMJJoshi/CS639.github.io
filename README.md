@@ -134,6 +134,17 @@ Winner by Opening and Level - These two graphs show the likelihood of an outcome
 * Higher rated players usually resign more often
 * The average amount of book moves in opening plays is : 5
 
+          * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
 
 
                                               Group Roles
