@@ -15,9 +15,11 @@ The user will be able to interact with these different identifiers to find out m
 We will be using dynamic query for our project. The reason for our choice of dynamic query is that we believe it will facilitate the user in searching for their topics of interest. We also plan to use bar charts and pie charts interchangeably to fit the data that is being shown. For some, for example player rating, bar charts would be easier to interpret data like the average rating of all players. For others, like player vs player win data, it would be easier to see a pie chart for a ratio between two players.
 
 
+
     An explanation of changes between the storyboard and the final implementation
 
-	At the beginning of the project, our idea was to use dynamic query and the lichess dataset in order to allow our users to sort by different factors. These factors would then influence the graphs that were presented to them. This would allow for many interesting insights about the game of online chess. As we neared the deadline, it became clear that this goal was unobtainable, and we decided to switch directions. The changes that we decided to make were to use some static visualizations instead of all interactive ones, so that we could showcase some of the important findings that we had. We also decided to implement some interactive visualizations on tableau, and find a way to integrate that with our website.
+At the beginning of the project, our idea was to use dynamic query and the lichess dataset in order to allow our users to sort by different factors. These factors would then influence the graphs that were presented to them. This would allow for many interesting insights about the game of online chess. As we neared the deadline, it became clear that this goal was unobtainable, and we decided to switch directions. The changes that we decided to make were to use some static visualizations instead of all interactive ones, so that we could showcase some of the important findings that we had. We also decided to implement some interactive visualizations on tableau, and find a way to integrate that with our website.
+	
 
 
                                            Problem and Motivations
