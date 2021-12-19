@@ -16,7 +16,7 @@ We will be using dynamic query for our project. The reason for our choice of dyn
 
 
 
-    An explanation of changes between the storyboard and the final implementation
+              An explanation of changes between the storyboard and the final implementation
 
 At the beginning of the project, our idea was to use dynamic query and the lichess dataset in order to allow our users to sort by different factors. These factors would then influence the graphs that were presented to them. This would allow for many interesting insights about the game of online chess. As we neared the deadline, it became clear that this goal was unobtainable, and we decided to switch directions. The changes that we decided to make were to use some static visualizations instead of all interactive ones, so that we could showcase some of the important findings that we had. We also decided to implement some interactive visualizations on tableau, and find a way to integrate that with our website.
 	
