@@ -22,9 +22,16 @@ At the beginning of the project, our idea was to use dynamic query and the liche
 	
 
 
-                                           Problem and Motivations
+                                           Motivations
 
-The motivation for our project was our interest in chess, and how different factors would impact the outcome of online chess matches. We wanted to take into consideration things like rating, white vs. black, number of moves, game time, and how it relates to the outcome of the game. This is worth addressing because it can give some insight into one of the most popular strategy games of all time.
+The motivation for our project was our interest in chess, and how different factors would impact the outcome of online chess matches. We wanted to take into consideration things like rating, white vs. black, number of moves, game time, and how it relates to the outcome of the game. This is worth addressing because it can give some insight into one of the most popular strategy games of all time. Some of the things that we can learn from this project include the average number of moves for a game at different skill levels, how often a game ends a certain way, how likely a win is in a certain openings, and which openings are better at which skill levels. These things could potentially be implemented into one's own online chess gameplay to provide some strategy.
+
+                                        CHALLENGES
+					
+* Interpreting vague or obscure data from the csv file. There were some data columns in the csv file that had very difficult to read formatting, and we had to do a bit of digging in order to understand what they meant. 
+* Solving bugs in our interface. We had troubles working with different interaction pieces in our code, and making it work correctly when uploaded and implemented into our website.
+* Working through scheduling differences during finals time. Often times one or more members of our group would struggle to make it to meetings as a result of finals scheduling or other time conflicts. 
+* Overestimating our ability and speed of completing work. Originally, we tried to do much more than we ended up being capable of doing, so we had to cut back a little bit and work on a project that was more reasonable and within our abilities.
 
 
                                            Definitions
@@ -134,17 +141,8 @@ Winner by Opening and Level - These two graphs show the likelihood of an outcome
 * Higher rated players usually resign more often
 * The average amount of book moves in opening plays is : 5
 
-          * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
+          
+ 
 
 
                                               Group Roles
@@ -156,15 +154,7 @@ During our project the work has been split up this way so far:
 * Mudit - Creating the website: Mudit took those two pieces and used them to create the user end website that people can interact with.
 * Isaac - Interpreting data and creating writeups: Isaac helped with interpreting and researching aspects of the data, and creating the writeups and scripts. 
 
-                                                                  
-                                               Challenges
-                                               
-Some of the challenges that we had to overcome during the process of creating our project were:
-Interpreting vague or obscure data from the csv file.
-Solving bugs in our interface
-Working through scheduling differences during finals time.
-                                                                  
-                                                                  
+                                                                                                                                 
                                                                   
                                                                   
                                                                   
