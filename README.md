@@ -35,20 +35,15 @@ Moves: The moves that occurred during the entire game’s playtime
 
                                              Visualizations
                                                         
-**Game Outcomes**
+![Graph 1](./assets/1.jpg)
 
-![Graph 1](./assets/Distribution graphs.png)
+![Graph 2](./assets/2.jpg)
+
+![Graph 3](./assets/3.jpg)
+
+![Graph 4](./assets/4.jpg)
 
 
-**Winning Side**
-
-![Graph 2](./assets/avgratingval.jpg)
-
-![Graph 3](./assets/correlation matrix.png)
-
-![Graph 4](./assets/gamelength.jpg)
-
-![Graph 5](./assets/gamelengthbyvar.jpg)
 
 
                                               Group Roles
