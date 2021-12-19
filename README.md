@@ -35,9 +35,15 @@ Moves: The moves that occurred during the entire game’s playtime
 
                                              Visualizations
                           
-![Graph 2](docs/assets/2.png)
+![Graph 1](docs/assets/1.jpg)
 
-![Graph 1](docs/assets/2.jpg)
+![Graph 2](docs/assets/2.jpg)
+
+![Graph 3](docs/assets/3.jpg)
+
+![Graph 4](docs/assets/4.jpg)
+
+![Graph 5](docs/assets/5.jpg)
 
 
 
