@@ -34,52 +34,21 @@ Moves: The moves that occurred during the entire game’s playtime
 
 
                                              Visualizations
-                                             
-https://prod-useast-b.online.tableau.com/t/hahah/views/1/4?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link              
+                                                        
 **Game Outcomes**
 
-![Graph 1](./assets/1.png)
-
-Minimum Average Rating:
-
-<input type="text" id="minRating1" name="minRating1"/>
-
-Maximum Average Rating:
-
-<input type="text" id="maxRating1" name="maxRating1"/>
-
-Minimum Turns:
-
-<input type="text" id="minTurns1" name="minTurns1"/>
-
-Maximum Turns:
-
-<input type="text" id="maxTurns1" name="maxTurns1"/>
+![Graph 1](./assets/Distribution graphs.png)
 
 
 **Winning Side**
 
-![Graph 2](./assets/2.png)
+![Graph 2](./assets/avgratingval.jpg)
 
-Minimum Average Rating:
+![Graph 3](./assets/correlation matrix.png)
 
-<input type="text" id="minRating2" name="minRating2"/>
+![Graph 4](./assets/gamelength.jpg)
 
-Maximum Average Rating:
-
-<input type="text" id="maxRating2" name="maxRating2"/>
-
-Minimum Turns:
-
-<input type="text" id="minTurns2" name="minTurns2"/>
-
-Maximum Turns:
-
-<input type="text" id="maxTurns2" name="maxTurns2"/>
-
-
-
-
+![Graph 5](./assets/gamelengthbyvar.jpg)
 
 
                                               Group Roles
