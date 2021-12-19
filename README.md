@@ -46,7 +46,10 @@ Average Rating: The average rating of the 2 players on white and black
 
 Moves: The moves that occurred during the entire game’s playtime
 
-
+                                   
+				   Interactive Visualizations
+				   
+<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/peter8439/viz/a_16398946906600/Sheet1" width = '650' height = '450' scrolling='yes' ></iframe>
 
 
 
